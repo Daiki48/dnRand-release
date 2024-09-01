@@ -1,12 +1,12 @@
 {
-  "version": "0.1.1",
-  "notes": "アプリのバージョンアップを検知して更新する処理を追加しました。動作するかのテストも兼ねてのv0.1.1リリースです。",
-  "pub_date": "2024-09-01T12:06:27Z",
+  "version": "0.1.2",
+  "notes": "不要なボタンを表示していたため削除しました。機能追加はありません。",
+  "pub_date": "2024-09-01T16:10:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZnkwd3p3N3pDSzZjaUswTDhUTm9sbk1PY1JTcjN0MlF0ekJ0OWFKZGprbDZYY1hSU0NNWHNVRm11SmhsVlBVVmhVa0g0SUlSQ2Y0V2JqVDNSd2FvaGNNa1BkMlZCc2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1MTY5OTUzCWZpbGU6ZG5SYW5kXzAuMS4xX3g2NF9qYS1KUC5tc2kKZlVaVjlZZzIzczFTaGE5dmpRR2VRSHpLU3BBQWxRSEE3RWZNQy9aM1YxMTZ1Vm1nd1lHSnA2TEFEbzFURTJHdEIzTUFKZEw3aGc0TkF4OVJhOElIQVE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZnkwd3p3N3pDS3dKSkdZanRhVjZ5S0JCVVZmUXRHaGJMWHMzd3EwSkpBWXVvaVNZYlZxdVlvRVVzaUVRRE8xWjRIRVRnUXFLV1J5SE1EN1V2Z3hjYUx0WjZPdXJscEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1MTc0NTIwCWZpbGU6ZG5SYW5kXzAuMS4yX3g2NF9qYS1KUC5tc2kKS3lwU0pnd0NBNTk0RnRFazhLZnlkNW1yVGVwYm5qU1lGNmpKcTBHbjhJWlA4Zm1qV2ZiWVhtcnNmV3k2am5IRWlRUzNPdEpKNmtiZDFvU0thWWR6RFE9PQo=",
 
-      "url": "https://github.com/Daiki48/dnRand-release/releases/download/v0.1.1/dnRand_0.1.1_x64_ja-JP.msi"
+      "url": "https://github.com/Daiki48/dnRand-release/releases/download/v0.1.2/dnRand_0.1.2_x64_ja-JP.msi"
     }
   }
 }
