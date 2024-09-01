@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "初回リリースバージョンです。まだ機能は貧弱で、生成数と文字列の長さのみ設定可能です。",
+  "pub_date": "2024-09-01T12:06:27Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZnkwd3p3N3pDSyt1WnFiTTJSV0tEa041TWJZbVUrazFYcUFieTQ1QXVYN29MUVNiN1NvbVY5M3ZuN0NXMnlRTkJVTVZ6OVVpSnJ3NU9RL05aOVlrMVppRkQ5eXdGblFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1MTYzMTIxCWZpbGU6ZG5SYW5kXzAuMS4wX3g2NF9lbi1VUy5tc2kKdjU1Sld4N2xCbE53U0RCOTZZNmpTOEZDc3pvQnpjRFh3cGZBKzdkUUxRQzEvc04vU253YzF1UEl2Vm11cmJCQzF4THU2M1IrcjY0eHRQQ3dTWDdEQXc9PQo=",
+      "url": ""
+    }
+  }
+}
