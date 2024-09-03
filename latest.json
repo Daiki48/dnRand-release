@@ -1,12 +1,12 @@
 {
-  "version": "0.1.3",
-  "notes": "アプリ更新用エンドポイントの設定にミスがありました。修正してみたので更新出来るはずです。",
-  "pub_date": "2024-09-01T16:10:27Z",
+  "version": "0.2.0",
+  "notes": "生成した文字列をボタンにしました。そして、このボタンを押すとクリップボードにコピーされるようにしています。文字列としてユーザーが選択しコピーすることも出来ましたが、ボタンをクリックするだけでコピーされた方が楽だったので。あと、クリアボタンを設置しました。このクリアボタンを押すと、生成済みの文字列を削除します。",
+  "pub_date": "2024-09-03T23:01:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZnkwd3p3N3pDSzc2cXVhM2RxcWVZRlhLUmc4QUJvdVZhZno5YTZiQnJSREozak9McnhBWVg4VXZja1V4ZFYvU2JlZmdkbDFBQ2VrWHUvRUh6T2Naa2Q0U0hhbXpra3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1MTc1MTUwCWZpbGU6ZG5SYW5kXzAuMS4zX3g2NF9qYS1KUC5tc2kKaldoRS9GN3ZmVDlpN0UyMyttMEUrdmRUa1JISHR6QWg4b0MrTWZvNDVmeDMzckNoN3QwakN2TEdFVnZQQVRYOW5vU1pRQkhvK3RuT0JvMGxlSFdFQVE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZnkwd3p3N3pDSzI3MjB5WlpIZzZCVVdWMENJbTVKcE5FVUV1N0ZFNlZ3Ymc5VHJxZlJ3RCtvTW9ZaVBVZEQrcG01V0gwaXl1RzduY2VNN1REVzV2aXJVdGFQdHR6M2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1MzcyMDIzCWZpbGU6ZG5SYW5kXzAuMi4wX3g2NF9qYS1KUC5tc2kKb3NibENlYjNIbnkxSURKNzBmeVZyeFV4WDVvWE9pR2xTQ2FMbE5MS1A4SGl5bCs4VnA2b2d1NGw3cDhtOGVsdXRLQkZmWCtJT1plWldZS0JPVk84QVE9PQo=",
 
-      "url": "https://github.com/Daiki48/dnRand-release/releases/download/v0.1.3/dnRand_0.1.3_x64_ja-JP.msi"
+      "url": "https://github.com/Daiki48/dnRand-release/releases/download/v0.2.0/dnRand_0.2.0_x64_ja-JP.msi"
     }
   }
 }
